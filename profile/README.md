@@ -10,4 +10,4 @@ Our services include:
  - Software development outsourcing for businesses
 
 Our website for local businesses: [**muvozanat.uz**](https://muvozanat.uz)<br />
-Our website for international businesses: [**muvozanat.com**](https://muvozanat.uz)
+Our website for international businesses: [**muvozanat.com**](https://muvozanat.com)
