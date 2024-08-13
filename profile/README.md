@@ -7,4 +7,4 @@ Our services include:
  - Web development
  - Telegram bot/mini-app development
  - UI/UX design
- - Software development outsourcing
+ - Software development outsourcing for businesses
