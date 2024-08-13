@@ -9,5 +9,5 @@ Our services include:
  - UI/UX design
  - Software development outsourcing for businesses
 
-Our website for local businesses: [**muvozanat.uz**](https://muvozanat.uz)<br />
-Our website for international businesses: [**muvozanat.com**](https://muvozanat.com)
+🏠 Our website for local businesses: [**muvozanat.uz**](https://muvozanat.uz)<br />
+🌎 Our website for international businesses: [**muvozanat.com**](https://muvozanat.com)
